@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/SteveNoyes/stats-preview)
-- Live Site URL: [GitHub Pages](https://pages.github.com/)
+- Live Site URL: [GitHub Pages](https://stevenoyes.github.io/stats-preview/)
 
 ## My process
 

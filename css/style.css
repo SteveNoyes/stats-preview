@@ -96,7 +96,6 @@ h1 {
 }
 
 @media (min-width: 1440px) {
-
   .wrapper {
     width: 80%;
     display: flex;
@@ -150,5 +149,4 @@ h1 {
   .templates {
     margin-right: 7rem;
   }
-
 }

@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://your-solution-url.com)
+- Solution URL: [GitHub Repo](https://github.com/SteveNoyes/stats-preview)
 - Live Site URL: [GitHub Pages](https://pages.github.com/)
 
 ## My process
